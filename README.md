@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+
+Just a practice repository to get my feet wet!
